@@ -1,3 +1,3 @@
 # ReadmeFileGenerator
 
-https://adithyaraok14.github.io/ReadmeFileGenerator.io/
+https://adithyaraok14.github.io/ReadmeFileGenerator/
